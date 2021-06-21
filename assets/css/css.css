@@ -1,0 +1,35 @@
+.profile
+{
+    height: 260px;
+    width: 260px;
+    border-radius: 200px;
+    box-shadow: #1a3c5f 1px 9px 10px 4px;
+    margin: 30px;
+}
+
+.info
+{
+    display: block;
+    width: 311px;
+    height: 650px;
+    background-image: url("../img/bg.jfif");
+    background-repeat: no-repeat;
+    box-shadow: #1a3c5f 1px 9px 10px 10px;
+}
+
+#about
+{
+    margin: 30px 70px;
+    
+}
+
+#about td
+{
+    padding: 0 0 0 20px;
+}
+
+#follow
+{
+    text-align: center;
+    font-size: 1.567rem;
+}
